@@ -6,4 +6,4 @@ joblib
 plotly
 matplotlib
 shap
-xgboost
+xgboost==2.0.3
